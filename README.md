@@ -15,6 +15,7 @@ change to test the webhook trigger
 SCM Poll test 
 SCM Poll Testing on complete CICD pipeline
 This is for webhook testing
+This is to test scm polling funtionality of Jenkins which autotriggers the pipeline when it finds any changes in source code
 ==================== d
 ddooiouo
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
